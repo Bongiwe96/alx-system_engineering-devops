@@ -1,0 +1,3 @@
+
+#!/bin/bash
+echo "mv Betty tmp >my_first_directory/tmp/"
