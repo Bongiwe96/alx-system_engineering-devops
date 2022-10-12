@@ -1,0 +1,10 @@
+
+#!/bin/bash
+total 24
+-rw-r--r-- 1 0 0  4 Oct  6 14:25 0-current_working_directory
+-rwxr-xr-x 1 0 0 19 Oct 12 01:29 1-listit
+-rwxr-xr-x 1 0 0 18 Oct 12 04:17 2-bring_me_home
+-rwxr-xr-x 1 0 0 19 Oct 12 02:09 3-listfiles
+-rwxr-xr-x 1 0 0 25 Oct 12 02:38 4-listmorefiles
+-rw-r--r-- 1 0 0  0 Oct 12 05:06 5-listfilesdigitonly
+-rw-r--r-- 1 0 0 40 Oct 12 01:28 README.md
