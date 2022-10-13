@@ -1,0 +1,2 @@
+#!/bin/bash
+awk 1 /etc/passwd ; sudo nano /etc/hosts
